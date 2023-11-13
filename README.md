@@ -6,7 +6,7 @@ This is a repository stores the source code of my realization of CSAPP labs. You
 
 ## Note Links
 
-- [x] [Data Lab](https://www.cnblogs.com/m-contour/p/17189590.html). Students implement simple logical, two's complement, and floating point functions, but using a highly restricted subset of C.
+- [x] [Data Lab](https://hangx-ma.github.io/2023/03/07/csapp-datalab.html)
 - [ ] Update in progress ...
 
 ## License
